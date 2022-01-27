@@ -62,6 +62,9 @@ class _LoginSignUpScreenState extends State<LoginSignUpScreen> {
                 child: Container(
                   height: 300,
                   decoration: BoxDecoration(
+                    // boxShadow: const [
+                    //   BoxShadow(blurRadius: 10),
+                    // ],
                     image: DecorationImage(
                         opacity: 95.0,
                         image: AssetImage('image/b.png'),
